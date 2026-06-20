@@ -2,7 +2,7 @@
 
 # Zine
 
-<img width="540" height="828" alt="Blitz" src="https://github.com/user-attachments/assets/9e662d4d-fba4-48fb-86e4-4970a0530b8a" />
+<img width="540" height="828" alt="Blitz" src="https://github.com/user-attachments/assets/ef5168d4-5012-4086-9455-f7773c3e14be" />
 
 # Description 
 
@@ -22,6 +22,14 @@ Note: This Project does not contain the wiring digrams becuase this is just the 
 <img width="1072" height="665" alt="Screenshot 2026-06-20 122143" src="https://github.com/user-attachments/assets/239bfb2b-9986-4b70-8a1c-08a8e39c672e" />
 <img width="1126" height="653" alt="image" src="https://github.com/user-attachments/assets/2c391428-c7cb-4714-b79d-1a40263eec09" />
 
+# Steps to Assemble
+
+1) Get the chasis 3d printed.
+2) get the componenets listed in the BOM.
+3) Solder all the components as shown
+4) fix all the things down,
+5) Now your Battlebot Should Work.
+   
 # BOM
 
 | Part                            | Qty | Approx USD  | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
