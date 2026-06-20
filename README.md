@@ -1,5 +1,9 @@
 # Blitz
 
+# Zine
+
+<img width="540" height="828" alt="Blitz" src="https://github.com/user-attachments/assets/9e662d4d-fba4-48fb-86e4-4970a0530b8a" />
+
 # Description 
 
 This a a 1.36 kg or 3lb Battlebot which can be used in tournaments for the fights and it has a lot of power because of it 2 wheeled light wieght design with a deadly spinning weapon which can demolish any bot which comes in its way.
