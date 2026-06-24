@@ -25,10 +25,11 @@ Note: This Project does not contain the wiring digrams becuase this is just the 
 # Steps to Assemble
 
 1) Get the chasis 3d printed.
-2) get the componenets listed in the BOM.
-3) Solder all the components as shown
-4) fix all the things down,
-5) Now your Battlebot Should Work.
+2) After that use the ALuminium sheets and cut it in specific sizes and add a layer of armour above 3d print. 
+3) get the componenets listed in the BOM.
+4) Solder all the components as shown
+5) fix all the things down,
+6) Now your Battlebot Should Work.
    
 # BOM
 
