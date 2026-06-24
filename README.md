@@ -2,7 +2,7 @@
 
 # Zine
 
-<img width="540" height="828" alt="Blitz" src="https://github.com/user-attachments/assets/ef5168d4-5012-4086-9455-f7773c3e14be" />
+<img width="540" height="828" alt="Blitz (1)" src="https://github.com/user-attachments/assets/7a792a35-717c-4636-95f3-8f6edfb5db88" />
 
 # Description 
 
