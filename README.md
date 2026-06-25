@@ -22,6 +22,10 @@ Note: This Project does not contain the wiring digrams becuase this is just the 
 <img width="1072" height="665" alt="Screenshot 2026-06-20 122143" src="https://github.com/user-attachments/assets/239bfb2b-9986-4b70-8a1c-08a8e39c672e" />
 <img width="1126" height="653" alt="image" src="https://github.com/user-attachments/assets/2c391428-c7cb-4714-b79d-1a40263eec09" />
 
+# Schematic
+
+<img width="1237" height="761" alt="image" src="https://github.com/user-attachments/assets/6fe9ec87-5d25-426e-a540-09ec3a830d9b" />
+
 # Steps to Assemble
 
 1) Get the chasis 3d printed.
